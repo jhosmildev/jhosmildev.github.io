@@ -1,0 +1,212 @@
+.contenedor{
+
+    padding: 200px;
+}
+.obe{
+    
+    background-image: url(https://www.topdoctors.es/img/main-banner-diccionario-medico.jpg);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 700px;
+    padding-left: 100px;
+    display: block;
+    background-size: cover;
+    color: #05254e;
+    width: auto;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px  ;
+    background-position: top;
+    text-align: center
+}
+
+.obesid{
+    display: block;
+    background-color: lightcyan;
+    padding: 50px;
+    margin-top: -50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color:#000000 ;
+    width: 93%;
+}
+p{
+    color: black;
+    font-size: 20px;
+}
+.im{
+    width: 40%;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+.asas{
+    padding: 30px;
+}
+.lista{
+    margin-top: 10px;
+    background-position: top;
+    width: auto;
+    background-color: lightcyan;
+    display: block;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+
+}
+li{
+    background-color: lightskyblue;
+    display: block;
+    border: rgb(255, 255, 255) solid 2px;
+    margin-top: 3px;
+}
+.censo{
+    width: 100%;
+    border: black solid;
+}
+ul{
+    font-size: 20px;
+}
+.causas{
+    margin-top: 30px;
+    width: 100%;
+    background-color: lightcyan;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+.gor{
+    width: 100%;
+}
+h3{
+    font-size: 30px;
+}
+.ashe{
+    padding: 30px;
+}
+
+.conc{
+    margin-top: 20px;
+    background-color: lightcyan;
+    padding: 30px;
+    width: 100%;
+    display: block;
+}
+.prob{
+    width: 90%;
+    margin: 20px;
+}
+.lol{
+    padding: 30px;
+}
+.a1{
+    background-color: lightcyan;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    width: 100%;
+    display: block;
+
+}
+.tit2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+.anorexia{
+    background-color: lightcyan;
+    margin-top: 20px;
+    padding: 40px;
+    width: 100%;
+    margin: 20px
+}
+.an{
+    width: 100%;
+    position: relative;
+    
+
+}
+.anor{
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightcyan;
+    padding: 40px;
+}
+.anr{
+    width: 100%;
+}
+.espe{
+    background-color: lightcyan;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.ps{
+    width: 100%;
+    border: white 2px solid;
+}
+form{
+    margin-top: 20px;
+    background: lightcyan;
+    border: 5px rgb(0, 0, 0) dashed;
+    margin: auto;
+    padding: 30px;
+    width: 50%
+    
+}
+label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    display: block;
+    color: rgb(0, 0, 0);
+}
+input{
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 25px;
+    border: inset 5px;
+}
+textarea{
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 30px;
+    border: inset 5px;
+}
+button{
+    width: 100%;
+    font-size: 30px;
+    border: outset 8px;
+}
+input:focus{
+    border: rgb(0, 0, 0) 1px solid;
+}
+.pararafo{
+   
+    font-size: 30px;
+    width: 50%;
+    text-align: left;
+    background: rgb(0, 0, 0);
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+.sugerencia{
+    
+    background: white;
+    border: double black 5px;
+    padding: 10px;
+    width: 60%;
+    margin: auto;
+    color: rgb(0, 0, 0);
+    font-size: 70px;
+    text-decoration: underline rgb(0, 0, 0);
+    text-align:center;
+}
+.que{
+    background-image: url(https://www.hola.com/imagenes/estar-bien/20210713192949/consulta-psicologo-preguntas-frecuentes/0-975-559/psicologo-consulta-m.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
